@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PassWebApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(PassWebApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(PassWebApplication.class, args);
+	}
 
 }
